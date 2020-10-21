@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff268d63-e256-41a3-a726-9db5eeef4cdf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="187" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="JavaFXApplication" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VSuZsJqM0dgrkeTXdxApn2hVEd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="myProject" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\belJava\out\production\belJava\com\bjava" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.exstrakulikuler">
+    <configuration name="Arrays1D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.project.Arrays1D" />
+      <module name="belJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysMultiDimensi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.project.ArraysMultiDimensi" />
+      <module name="belJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exstrakulikuler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myProject.dataEskull.exstrakulikuler" />
+      <module name="belJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myProject.dataEskull.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kasir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myProject.kasir.kasir" />
+      <module name="belJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myProject.kasir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="perpustakaan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CRUD.perpustakaan" />
+      <module name="belJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myProject.kasir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.exstrakulikuler" />
+        <item itemvalue="Application.perpustakaan" />
+        <item itemvalue="Application.kasir" />
+        <item itemvalue="Application.ArraysMultiDimensi" />
+        <item itemvalue="Application.Arrays1D" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff268d63-e256-41a3-a726-9db5eeef4cdf" name="Default Changelist" comment="" />
+      <created>1577258878215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577258878215</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="39" key="#Main" timestamp="1577786420658">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="39" key="#Main/0.0.1366.728@0.0.1366.728" timestamp="1577786420658" />
+    <state x="275" y="28" key="#Notifications" timestamp="1579758955101">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="28" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1579758955101" />
+    <state x="271" y="23" key="#Plugins" timestamp="1580474607599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="271" y="23" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1580474607599" />
+    <state x="274" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578839247353">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1578839247353" />
+    <state x="487" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1579613188806">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579613188806" />
+    <state x="479" y="252" width="407" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579611324681">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="252" width="407" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1579611324681" />
+    <state x="479" y="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1580393121447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1580393121447" />
+    <state x="416" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578579643289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="416" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578579643289" />
+    <state x="462" y="106" key="FileChooserDialogImpl" timestamp="1580898669628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580898669628" />
+    <state width="1306" height="272" key="GridCell.Tab.0.bottom" timestamp="1580969795741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="272" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580969795741" />
+    <state width="1306" height="272" key="GridCell.Tab.0.center" timestamp="1580969795741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="272" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580969795741" />
+    <state width="1306" height="272" key="GridCell.Tab.0.left" timestamp="1580969795740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="272" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580969795740" />
+    <state width="1306" height="272" key="GridCell.Tab.0.right" timestamp="1580969795741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="272" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580969795741" />
+    <state width="1306" height="220" key="GridCell.Tab.1.bottom" timestamp="1579189222555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579189222555" />
+    <state width="1306" height="220" key="GridCell.Tab.1.center" timestamp="1579189222555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1579189222555" />
+    <state width="1306" height="220" key="GridCell.Tab.1.left" timestamp="1579189222555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1579189222555" />
+    <state width="1306" height="220" key="GridCell.Tab.1.right" timestamp="1579189222555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1579189222555" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1580393217897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1580393217897" />
+    <state x="378" y="189" width="609" height="347" key="com.intellij.ide.util.TipDialog" timestamp="1580968144485">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="189" width="609" height="347" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580968144485" />
+    <state x="65" y="0" key="new project wizard" timestamp="1580474817981">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580474817981" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1578733884147">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1578733884147" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580474583854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580474583854" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/CRUD/operasi.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/belJava$perpustakaan.ic" NAME="perpustakaan Coverage Results" MODIFIED="1580899750101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>myProject.kasir.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/belJava$Main.ic" NAME="Main Coverage Results" MODIFIED="1577282148205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
